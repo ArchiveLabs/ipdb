@@ -1,14 +1,16 @@
 # The Internet's Free, Open, and Decentralized Knowledge Base [DRAFT]
 
-Authors:
-Mek Karpeles <mekarpeles@gmail.com> (@mekarpeles)
-Ben Trask <bentrask@comcast.net> (@btrask)
-Drew Winget <scipioaffricanus@gmail.com> (@aeschylus)
-Jessy Diamond <diamondman@gmail.com> (@diamondman)
+**Authors:**
 
-Advisors:
-Trent McConaghy <gtrent@gmail.com> (@trentmc)
-Juan Benet <juan@ipfs.io> (@jbenet)
+* Mek Karpeles <mekarpeles@gmail.com> (@mekarpeles)
+* Ben Trask <bentrask@comcast.net> (@btrask)
+* Drew Winget <scipioaffricanus@gmail.com> (@aeschylus)
+* Jessy Diamond <diamondman@gmail.com> (@diamondman)
+
+**Advisors:**
+
+* Trent McConaghy <gtrent@gmail.com> (@trentmc)
+* Juan Benet <juan@ipfs.io> (@jbenet)
 
 ## Abstract
 
@@ -59,7 +61,7 @@ respective outcomes:
 
 ## Sources
 
-[a] https://en.wikipedia.org/w/index.php?title=Freebase&oldid=704986181
-[b] http://web.archive.org/web/20160226041232/http://www.freebase.com
-[c] https://en.wikipedia.org/w/index.php?title=Wikidata&oldid=706179445
-[d] https://www.wikidata.org/w/index.php?title=Wikidata:Main_Page&oldid=270508961
+- [a] https://en.wikipedia.org/w/index.php?title=Freebase&oldid=704986181
+- [b] http://web.archive.org/web/20160226041232/http://www.freebase.com
+- [c] https://en.wikipedia.org/w/index.php?title=Wikidata&oldid=706179445
+- [d] https://www.wikidata.org/w/index.php?title=Wikidata:Main_Page&oldid=270508961
